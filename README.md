@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipon Sutradhar</h1>
 <h3 align="center">A passionate junior android developer from Bangladesh . Currently learning Flutter</h3>
-<img align="centre" alt="Coding" width="300" src="https://imgur.com/a/ovB1Ch0">
+![image](https://user-images.githubusercontent.com/61940095/134174879-507e1e11-e912-40eb-b6b3-db235a4ea608.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0tb0t71&label=Profile%20views&color=0e75b6&style=flat" alt="d0tb0t71" /> </p>
 
