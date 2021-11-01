@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior android developer from Bangladesh . Currently learning Flutter</h3>
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/61940095/134175724-5252d51b-3720-4392-92fc-aac79c72725d.gif" width="350" alt="d0tb0t71" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/61940095/134175724-5252d51b-3720-4392-92fc-aac79c72725d.gif" width="400" alt="d0tb0t71" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d0tb0t71&label=Profile%20views&color=0e75b6&style=flat" alt="d0tb0t71" /> </p>
 
