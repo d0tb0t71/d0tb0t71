@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipon Sutradhar</h1>
-<h3 align="center">A passionate junior android developer from Bangladesh . Currently learning Flutter</h3>
+<h3 align="center">A passionate software engineer from Bangladesh .</h3>
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/61940095/134175724-5252d51b-3720-4392-92fc-aac79c72725d.gif" width="400" alt="d0tb0t71" /> </p>
